@@ -93,7 +93,7 @@ class App extends Component {
             return true;
         }
     };
-
+    
     sendForm = (e) => {
         e.preventDefault();
 
