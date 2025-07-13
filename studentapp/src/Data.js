@@ -1,0 +1,26 @@
+export default [
+    {
+        rollNumber:12345,
+        name:"vivek",
+        branch:"cs",
+        contact:6428346
+    },
+    {
+        rollNumber:12345,
+        name:"mangilal",
+        branch:"mech",
+        contact:6420945
+    },
+    {
+        rollNumber:11123,
+        name:"Durgesh",
+        branch:"ec",
+        contact:6427475
+    },
+    {
+        rollNumber:11234,
+        name:"Lalit",
+        branch:"it",
+        contact:6428765
+    }
+]
